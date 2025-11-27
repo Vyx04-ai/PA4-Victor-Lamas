@@ -37,7 +37,9 @@ body{
     position:relative;
 }
 
-.logoyopo{width:80px;}
+.logoyopo{
+    width:280px;
+}
 
 .banner-area{
     grid-area:banner;
@@ -218,3 +220,4 @@ body{
     .formulario-box{grid-column:1;}
     .banner-area img{height:230px;}
 }
+
